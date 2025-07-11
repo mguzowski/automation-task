@@ -1,0 +1,19 @@
+{
+  "name": "automation-task",
+  "version": "1.0.0",
+  "description": "automation-task",
+  "main": "index.js",
+  "scripts": {},
+  "author": "mguzowski",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.53.2",
+    "@types/node": "^24.0.12",
+    "playwright": "^1.53.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^9.9.0"
+  }
+}
